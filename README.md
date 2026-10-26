@@ -301,4 +301,4 @@ Projeto desenvolvido **para fins educacionais e de portfólio**. Os dados perten
 
 ## 👤 Autores
 
-Feito por **[athinags](https://github.com/athinags)**, **[OCesarCardoso](https://github.com/OCesarCardoso)**, **[onlyjpx](https://github.com/onlyjpx)** e **[MatheusRRocha22](https://github.com/MatheusRRocha22)**, .
+Feito por **[athinags](https://github.com/athinags)**, **[OCesarCardoso](https://github.com/OCesarCardoso)**, **[onlyjpx](https://github.com/onlyjpx)** e **[MatheusRRocha22](https://github.com/MatheusRRocha22)**.
